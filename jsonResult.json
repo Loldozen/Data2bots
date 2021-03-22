@@ -1,0 +1,72 @@
+{
+    "100940478": {
+        "date": "2021-01-02",
+        "sku": "100940478",
+        "warehouse_location": "lagos",
+        "quantity": "23",
+        "obsolete": "False"
+    },
+    "100940479": {
+        "date": "2020-11-09",
+        "sku": "100940479",
+        "warehouse_location": "lagos",
+        "quantity": "84",
+        "obsolete": "False"
+    },
+    "100940480": {
+        "date": "2021-01-15",
+        "sku": "100940480",
+        "warehouse_location": "oyo",
+        "quantity": "11",
+        "obsolete": "False"
+    },
+    "100940481": {
+        "date": "2016-11-09",
+        "sku": "100940481",
+        "warehouse_location": "ogun",
+        "quantity": "98",
+        "obsolete": "True"
+    },
+    "100940482": {
+        "date": "2017-04-04",
+        "sku": "100940482",
+        "warehouse_location": "ogun",
+        "quantity": "23",
+        "obsolete": "True"
+    },
+    "100940483": {
+        "date": "2018-01-13",
+        "sku": "100940483",
+        "warehouse_location": "abia",
+        "quantity": "3",
+        "obsolete": "True"
+    },
+    "100940484": {
+        "date": "2021-03-15",
+        "sku": "100940484",
+        "warehouse_location": "kaduna",
+        "quantity": "7",
+        "obsolete": "False"
+    },
+    "100940485": {
+        "date": "2021-01-11",
+        "sku": "100940485",
+        "warehouse_location": "abuja",
+        "quantity": "4",
+        "obsolete": "False"
+    },
+    "100940486": {
+        "date": "2021-02-16",
+        "sku": "100940486",
+        "warehouse_location": "kano",
+        "quantity": "9",
+        "obsolete": "False"
+    },
+    "100940487": {
+        "date": "2019-06-06",
+        "sku": "100940487",
+        "warehouse_location": "anambra",
+        "quantity": "199",
+        "obsolete": "True"
+    }
+}

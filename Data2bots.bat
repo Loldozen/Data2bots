@@ -1,0 +1,1 @@
+@py.exe "C:\Users\HP\Documents\Ahmad Ololade Usman\Data2bots.py" %*
